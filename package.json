@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "fs-extra": "^4.0.2",
+    "moment": "^2.18.1"
+  },
+  "scripts": {
+    "start": "node ./generator"
+  }
+}
